@@ -8,7 +8,7 @@ public class test1
 	public void maethod()
 	{
 		int a=-120;
-		int b=-150;
+		int b=150;
 		int c=a+b;
 		System.out.println("Sum of two numbers is"+c);
 	}
